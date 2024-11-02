@@ -4,7 +4,6 @@ HPREC-Batch2,https://raw.githubusercontent.com/nf-core/test-datasets/refs/heads/
 HPREC-Batch3,https://raw.githubusercontent.com/nf-core/test-datasets/refs/heads/evexplorer/ev_small_rna/HPREC-Batch3.fastq.sampled.fastq.gz,
 HPREC-Batch4,https://raw.githubusercontent.com/nf-core/test-datasets/refs/heads/evexplorer/ev_small_rna/HPREC-Batch4.fastq.sampled.fastq.gz,
 LNCAP-Batch3,https://raw.githubusercontent.com/nf-core/test-datasets/refs/heads/evexplorer/ev_small_rna/LNCAP-Batch3.fastq.sampled.fastq.gz,
-LNCAP-Batch4,https://raw.githubusercontent.com/nf-core/test-datasets/refs/heads/evexplorer/ev_small_rna/LNCAP-Batch4.fastq.sampled.fastq.gz,
 LNCAP-Batch5,https://raw.githubusercontent.com/nf-core/test-datasets/refs/heads/evexplorer/ev_small_rna/LNCAP-Batch5.fastq.sampled.fastq.gz,
 LNCAP-Batch6,https://raw.githubusercontent.com/nf-core/test-datasets/refs/heads/evexplorer/ev_small_rna/LNCAP-Batch6.fastq.sampled.fastq.gz,
 
